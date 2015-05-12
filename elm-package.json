@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Nondeterministic values / cartesian combinable lists",
+    "repository": "https://github.com/Apanatshka/elm-list-ndet.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "List.NDet"
+    ],
+    "dependencies": {
+        "elm-lang/core": "2.0.1 <= v < 3.0.0"
+    },
+    "elm-version": "0.15.0 <= v < 0.16.0"
+}
