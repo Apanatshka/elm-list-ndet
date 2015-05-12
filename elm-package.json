@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "Nondeterministic values / cartesian combinable lists",
     "repository": "https://github.com/Apanatshka/elm-list-ndet.git",
     "license": "MIT",

@@ -16,7 +16,7 @@ values that are equal.
 @docs none, some, fromList, toList
 
 # Mapping and more
-@docs map, map2, map3, andMap, andThen
+@docs map, andMap, andThen
 
 -}
 import List
